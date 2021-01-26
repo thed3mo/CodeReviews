@@ -1,5 +1,15 @@
 # README
 
+## Demo
+
+#### Base Piano
+![](img/piano_0.png?raw=true)
+
+#### Piano with Key Press
+![](img/piano_2.png?raw=true)
+
+## Setup
+
 Getting started with this project is very easy. Run:
 
 ```
