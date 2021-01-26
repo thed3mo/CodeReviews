@@ -1,7 +1,6 @@
 # README
 
-Getting started with this project is very easy. Go into the `app`
-directory and run:
+Getting started with this project is very easy. Run:
 
 ```
 npm install
