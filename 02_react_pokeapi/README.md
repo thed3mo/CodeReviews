@@ -15,9 +15,9 @@ folder and re-run the two commands in the code block.
 ## Demo
 
 #### Pokemon Cards
-<img src="./img/venusaur.png" width="200">
-
-![](img/blastoise.png?raw=true)
-![](img/charizard.png?raw=true)
-![](img/pikachu.png?raw=true)
-
+<div class="flex flex-row">
+  <img src="./img/venusaur.png" width="200">
+  <img src="./img/blastoise.png" width="200">
+  <img src="./img/charizard.png" width="200">
+  <img src="./img/pikachu.png" width="200">
+</div>
