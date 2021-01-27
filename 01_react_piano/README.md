@@ -14,8 +14,8 @@ folder and re-run the two commands in the code block.
 
 ## Demo
 
-#### Base Piano
-![](img/piano_0.png?raw=true)
-
-#### Piano with Key Press
-![](img/piano_2.png?raw=true)
+#### Piano UI
+<div class="flex flex-row">
+  <img src="./img/piano_0.png" width="400">
+  <img src="./img/piano_2.png" width="400">
+</div>
