@@ -15,9 +15,7 @@ folder and re-run the two commands in the code block.
 ## Demo
 
 #### Pokemon Cards
-![](img/venusaur.png?raw=true | width=50)
-
-<img src="./img/venusaur.png" width="50">
+<img src="./img/venusaur.png" width="200">
 
 ![](img/blastoise.png?raw=true)
 ![](img/charizard.png?raw=true)
