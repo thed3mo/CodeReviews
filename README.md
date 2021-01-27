@@ -1,2 +1,2 @@
 # CodeReviews
-📝  All the projects for my Code Review series on YouTube.
+All the projects for my "Code Reviews" series on YouTube.
