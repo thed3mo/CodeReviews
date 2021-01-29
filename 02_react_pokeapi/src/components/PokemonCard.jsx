@@ -55,10 +55,6 @@ class PokemonCard extends React.Component {
     });
   }
 
-  randomizePokemonCard = async () => {
-    await this.loadRandomPokemonCard();
-  }
-
   async componentDidMount() {
     await this.loadRandomPokemonCard();
   }
@@ -74,7 +70,7 @@ class PokemonCard extends React.Component {
           ) : (
             <>
               {/* Randomize Button */}
-              <button type="button" onClick={this.randomizePokemonCard} className="bg-blue-500 hover:bg-blue-700 text-white p-2 border-black border-4 rounded-xl m-2">
+              <button type="button" onClick={this.loadRandomPokemonCard} className="bg-blue-500 hover:bg-blue-700 text-white p-2 border-black border-4 rounded-xl m-2">
                 randomize
               </button>
 
