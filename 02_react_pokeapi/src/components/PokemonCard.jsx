@@ -107,10 +107,10 @@ class PokemonCard extends React.Component {
                   this.state.pokemonMoves.map((move, index) => {
                     return (
                       <div key={index} className={"border-black border-2 m-1 p-1 rounded-xl flex flex-row justify-between px-1 bg-gradient-to-r from-" + POKEAPI_TYPE_TO_COLOR[move.type] + " to-white"}>
-                        <div className="">
+                        <div>
                           {move.name}
                         </div>
-                        <div className="">
+                        <div>
                           {
                             move.power ?
                             move.power
