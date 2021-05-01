@@ -1,2 +1,1 @@
-# CodeReviews
-💻 YouTube Code Review Series
+# 💻 YouTube Code Review Series
